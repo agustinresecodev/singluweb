@@ -1,0 +1,10 @@
+/* Set the size of the div element that contains the map */
+#map {
+    height: 50rem;  /* The height is 400 pixels */
+    width: 50rem;  /* The width is the width of the web page */
+  }
+
+  #singluweb-logo{
+    width: 10%;
+    height: 10%;
+  }
